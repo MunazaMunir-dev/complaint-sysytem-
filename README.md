@@ -74,3 +74,6 @@ MVC Architecture
 Connecting Frontend with Backend
 Error Handling
 Building Real-World Applications
+## Developed By
+Muaza Munir
+Aspiring Full Stack Developer | MERN Stack Developer | Future Software Engineer
