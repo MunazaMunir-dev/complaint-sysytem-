@@ -27,6 +27,24 @@ Created complaint details page.
 Added complaint status management.
 Built responsive UI using React and Tailwind CSS.
 
+📅 19 july 2026
+Admin Panel
+Admin Dashboard
+
+📅 20 july 2026
+Admin Sidebar
+Admin Navbar
+Admin Users Management
+Admin Complaints Management
+Dashboard Statistics
+Complaint Status Overview
+Pie Chart Integration
+Bar Chart Integration
+Recent Complaints Section
+Admin Profile
+Dark Mode
+Responsive Design
+
 ✨ Features
 User Registration & Login
 JWT Authentication
