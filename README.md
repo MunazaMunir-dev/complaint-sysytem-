@@ -45,6 +45,15 @@ Admin Profile
 Dark Mode
 Responsive Design
 
+📅 21 july 2026
+User Profile
+✅ Profile page
+✅ User name display
+✅ Email display
+✅ Role display
+✅ Account joining date display
+
+
 ✨ Features
 User Registration & Login
 JWT Authentication
