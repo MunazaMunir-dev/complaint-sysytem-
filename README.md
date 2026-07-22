@@ -35,7 +35,6 @@ Admin Dashboard
 Admin Sidebar
 Admin Navbar
 Admin Users Management
-Admin Complaints Management
 Dashboard Statistics
 Complaint Status Overview
 Pie Chart Integration
@@ -52,7 +51,8 @@ User Profile
 ✅ Email display
 ✅ Role display
 ✅ Account joining date display
-
+📅 22 july 2026
+Admin Complaints Management
 
 ✨ Features
 User Registration & Login
