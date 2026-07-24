@@ -51,8 +51,13 @@ User Profile
 ✅ Email display
 ✅ Role display
 ✅ Account joining date display
+
 📅 22 july 2026
 Admin Complaints Management
+
+📅 24july 2026
+Notification system 
+User Profile 
 
 ✨ Features
 User Registration & Login
